@@ -35,7 +35,7 @@ For each prediction in the analysis set, analyze its accuracy. Accuracy is deter
 - **Time bucket:** Use ‘time to actual’ to determine the time bucket; i.e. a prediction goes into a bucket based on the amount of time between when the _prediction was sampled_ and when the vehicle _actually reached the stop_.
 - **Accuracy value:** Compare the time variance to the accuracy threshold for the associated time bucket. Any prediction inside of its associated accuracy threshold is deemed “accurate.” Any prediction outside of its associated accuracy threshold is deemed “inaccurate.”
 
-![240409_partner-transit_eta-accuracy-benchmark_in-line_technical-1_1920x1080](https://github.com/TransitApp/ETA-Accuracy-Benchmark/assets/32456691/a1b3fb09-10fa-4e2b-adff-50632adb99fc)
+![240410_partner-transit_eta-accuracy-benchmark_in-line_technical-1_1920x1080](https://github.com/TransitApp/ETA-Accuracy-Benchmark/assets/32456691/16615b6f-d8bc-4820-a89e-495867a77018)
 
 Note that:
 - Time buckets exclude boundaries, i.e. `>= bucket start time < bucket end time`
@@ -54,7 +54,7 @@ The ETA Accuracy Benchmark uses progressively narrower accuracy thresholds depen
 
 Accuracy by bucket: Once all predictions have been bucketed appropriately, find the average prediction accuracy for a bucket by taking the `(total number of accurate predictions)`/`(total number of predictions)`.
 
-![240409_partner-transit_eta-accuracy-benchmark_in-line_technical-2_1920x1080](https://github.com/TransitApp/ETA-Accuracy-Benchmark/assets/32456691/9043bfcc-c4d0-40d7-aaae-319b18d71e11)
+![240410_partner-transit_eta-accuracy-benchmark_in-line_technical-2_1920x1080](https://github.com/TransitApp/ETA-Accuracy-Benchmark/assets/32456691/89018148-f184-4585-907c-db204d35c0dc)
 
 **5. Calculating an overall prediction accuracy percentage by taking an equally weighted average of the four buckets.**
 
@@ -62,4 +62,4 @@ Overall accuracy: in order to find an overall accuracy, take a straight average 
 
 This gives the smaller (and more impactful) buckets more weight. There are fewer total predictions in the smaller buckets — only 3 minutes’ worth of predictions in the 0-3 minute bucket compared to 5 minutes’ worth of predictions in the 10-15 minute bucket. By taking a straight average of the bucket-level percentages, the benchmark effectively gives additional weight to the smaller buckets simply because there are fewer predictions in those buckets. This straight average is the “single-number” readout to evaluate a feed’s overall accuracy.
 
-![240409_partner-transit_eta-accuracy-benchmark_in-line_technical-3_1920x1080](https://github.com/TransitApp/ETA-Accuracy-Benchmark/assets/32456691/ae0ddec0-7a36-41c1-9bdb-e3581328057e)
+![240410_partner-transit_eta-accuracy-benchmark_in-line_technical-3_1920x1080](https://github.com/TransitApp/ETA-Accuracy-Benchmark/assets/32456691/773dfb79-ded8-4cfa-ac79-61b78aac5671)
