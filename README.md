@@ -54,7 +54,7 @@ The ETA Accuracy Benchmark uses progressively narrower accuracy thresholds depen
 
 Accuracy by bucket: Once all predictions have been bucketed appropriately, find the average prediction accuracy for a bucket by taking the `(total number of accurate predictions)`/`(total number of predictions)`.
 
-![240411_partner-transit_eta-accuracy-benchmark_in-line_technical-2_1920x1080](https://github.com/TransitApp/ETA-Accuracy-Benchmark/assets/32456691/f18cb57c-034e-4e7c-9c23-16d2f583f9d5)
+![240411_partner-transit_eta-accuracy-benchmark_in-line_technical-2_1920x1080](https://github.com/TransitApp/ETA-Accuracy-Benchmark/assets/32456691/16f7f269-91c2-4f75-9ef5-81a4447b8253)
 
 **5. Calculating an overall prediction accuracy percentage by taking an equally weighted average of the four buckets.**
 
