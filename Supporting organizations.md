@@ -12,3 +12,4 @@ Organizations are listed alphabetically
 - [Ito World](https://www.itoworld.com/)
 - [Swiftly](https://www.goswift.ly/)
 - [Transit](https://transitapp.com/)
+- [Ualabee](https://ualabee.com/company)
