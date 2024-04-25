@@ -5,6 +5,7 @@ Organizations are listed alphabetically
 
 ### Transit agencies
 - [Capital Metropolitan Transportation Authority (CapMetro)](https://www.capmetro.org/)
+- [Clark County Public Transit Benefit Area Authority (C-TRAN)](https://www.c-tran.com/)
 - [Miami-Dade County Department of Transportation and Public Works (Miami-Dade Transit)](https://www.miamidade.gov/global/transportation/home.page) 
 - [Regional Transportation District (RTD-Denver)](https://www.rtd-denver.com/)
 
