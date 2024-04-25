@@ -1,7 +1,7 @@
 # Supporting organizations of the ETA Accuracy Benchmark
 A [common methodology](https://github.com/TransitApp/ETA-Accuracy-Benchmark/blob/main/README.md) to measure the accuracy of real-time ETA predictions for public transit
 
-Organizations are listed alphabetically
+Supporting organizations are listed alphabetically
 
 ### Transit agencies
 - [Capital Metropolitan Transportation Authority (CapMetro)](https://www.capmetro.org/)
