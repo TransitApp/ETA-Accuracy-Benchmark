@@ -1,5 +1,5 @@
 # ETA-Accuracy-Benchmark
-A common methodology for measuring the accuracy of real-time ETA predictions
+A common methodology for measuring the accuracy of real-time ETA predictions for public transit
 
 ## Why does the ETA Accuracy Benchmark exist?
 
