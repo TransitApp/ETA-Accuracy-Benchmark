@@ -9,7 +9,7 @@ Supporting organizations are listed alphabetically
 - [Miami-Dade County Department of Transportation and Public Works (Miami-Dade Transit)](https://www.miamidade.gov/global/transportation/home.page) 
 - [Regional Transportation District (RTD-Denver)](https://www.rtd-denver.com/)
 
-### Other Government Agencies
+### Other government agencies
 - [Cal-ITP (California Integrated Travel Project)](https://calitp.org/)
 
 ### Private sector
