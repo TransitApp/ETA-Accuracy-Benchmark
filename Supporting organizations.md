@@ -15,6 +15,7 @@ Supporting organizations are listed alphabetically
 ### Private sector
 - [Cambridge Systematics](https://camsys.com/)
 - [Ito World](https://www.itoworld.com/)
+- [Jarvus Innovations](https://jarv.us/)
 - [Left Turn Right Turn](https://ltrt.ca/)
 - [Swiftly](https://www.goswift.ly/)
 - [Transit](https://transitapp.com/)
